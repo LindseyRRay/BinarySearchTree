@@ -1,3 +1,4 @@
+# a tree
 
 class Node(oject):
 
